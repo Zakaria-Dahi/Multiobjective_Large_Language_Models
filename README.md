@@ -1,4 +1,4 @@
-# Multiobjective_Large_Language_MOdels
+# Multiobjective_Large_Language_Models
 
 **Programmer/Participants:** Zakaria Abdelmoiz DAHI :shipit:,  and Enrique Alba.
 
